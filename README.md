@@ -3,7 +3,7 @@ This is an educational project on data cleaning and preparation using SQL. The o
 
 This was done during the time when I took the course in Data Analysis in Swiss Coding Academy.
 
-### Overview
+### I. Overview
 SQL Code:
 
     SELECT * 
@@ -25,7 +25,7 @@ Result:
 |mendie alexandrescu|46|single|malexandrescu8@state.gov|504-918-4753|34 Delladonna Terrace,New Orleans,Louisiana|Systems Administrator III|3/12/1921|
 | fey kloss|52|married|fkloss9@godaddy.com|808-177-0318|8976 Jackson Park,Honolulu,Hawaii|Chemical Engineer|11/5/2014|
 
-### Duplicate and clean the data:
+### II. Duplicate and clean the data:
 
 Generate a DOL code:
 
