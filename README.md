@@ -3,5 +3,5 @@ This is an educational project on data cleaning and preparation using SQL. The o
 This was done during the time when I took the course in Data Analysis in Swiss Coding Academy.
 
 SELECT *
-FROM club_member_info.csv
+FROM club_member_info
 LIMIT 10;
