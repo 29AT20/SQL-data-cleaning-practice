@@ -6,7 +6,9 @@ This was done during the time when I took the course in Data Analysis in Swiss C
 ### Overview
 SQL Code:
 
-    SELECT * FROM club_member_info LIMIT 10;
+    SELECT * 
+    FROM club_member_info 
+    LIMIT 10;
 
 Result:
 
@@ -23,7 +25,7 @@ Result:
 |mendie alexandrescu|46|single|malexandrescu8@state.gov|504-918-4753|34 Delladonna Terrace,New Orleans,Louisiana|Systems Administrator III|3/12/1921|
 | fey kloss|52|married|fkloss9@godaddy.com|808-177-0318|8976 Jackson Park,Honolulu,Hawaii|Chemical Engineer|11/5/2014|
 
-### Copy to a new cleaned data table:
+### Duplicate and clean the data:
 
 Generate a DOL code:
 
