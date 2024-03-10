@@ -5,7 +5,7 @@ This was done during the time when I took the course in Data Analysis in Swiss C
 ### Overview
 SQL Code:
 
-    SELECT * FROM club_member_infoLIMIT 10;
+    SELECT * FROM club_member_info LIMIT 10;
 
 Result:
 
