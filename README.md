@@ -21,3 +21,20 @@ Result:
 |   Joete Cudiff|51|divorced|jcudiff7@ycombinator.com|616-617-0965|975 Dwight Plaza,Grand Rapids,Michigan|Research Nurse|11/16/2014|
 |mendie alexandrescu|46|single|malexandrescu8@state.gov|504-918-4753|34 Delladonna Terrace,New Orleans,Louisiana|Systems Administrator III|3/12/1921|
 | fey kloss|52|married|fkloss9@godaddy.com|808-177-0318|8976 Jackson Park,Honolulu,Hawaii|Chemical Engineer|11/5/2014|
+
+###Copy to a new cleaned data table:
+Generate a DOL code:
+
+    I CREATE TABLE club_member_info_cleaned (
+    full_name VARCHAR(5Ø),
+    age INTEGER,
+    martial_status VARCHAR(5Ø),
+    email VARCHAR(5Ø),
+    phone VARCHAR(5Ø),
+    full_address VARCHAR(5Ø),
+    job_title VARCHAR(5Ø),
+    membership _ date VARCHAR (50)
+
+Then
+
+    INSERT INTO club_member_info_cleaned SELECT * FROM club_member_info;
