@@ -7,6 +7,8 @@ SQL Code:
 
     SELECT * FROM club_member_infoLIMIT 10;
 
+Result:
+
 |full_name|age|martial_status|email|phone|full_address|job_title|membership_date|
 |---------|---|--------------|-----|-----|------------|---------|---------------|
 |addie lush|40|married|alush0@shutterfly.com|254-389-8708|3226 Eastlawn Pass,Temple,Texas|Assistant Professor|7/31/2013|
