@@ -4,7 +4,7 @@ This is an educational project on data cleaning and preparation using SQL. The o
 This was done during the time when I took the course in Data Analysis in Swiss Coding Academy.
 ### Overview
 SQL Code:
-    SELECT * FROM club_member_infoLIMIT 10;
+                SELECT * FROM club_member_infoLIMIT 10;
 
 |full_name|age|martial_status|email|phone|full_address|job_title|membership_date|
 |---------|---|--------------|-----|-----|------------|---------|---------------|
